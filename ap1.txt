@@ -1,1 +1,17 @@
 estudo de branchs
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent dictum, purus ac tempor pellentesque, lectus arcu pharetra orci, sit amet dignissim urna dolor congue elit. Cras sagittis metus nec lectus varius, a vestibulum odio euismod. Nunc porttitor tempor semper. Cras tempus enim eu pretium imperdiet. Quisque vulputate et libero quis consectetur. Praesent neque tortor, egestas ac quam at, rutrum rutrum dui. Donec eu convallis velit. Duis eget est ac est porta gravida. Nulla tellus arcu, dignissim at tempus a, blandit vel est. Morbi eleifend purus vel convallis malesuada. Vivamus at nunc eu ipsum elementum vulputate.
+
+Etiam hendrerit, neque in accumsan cursus, ex mi facilisis metus, a semper felis orci sit amet urna. Cras ac augue aliquet, euismod ipsum pellentesque, ultricies sem. Praesent ultricies ligula tortor, ut efficitur diam tempus eu. Ut ac ornare lorem. Quisque in urna eu erat ultricies interdum vitae id diam. Integer tincidunt nisi in vehicula aliquam. Duis auctor porttitor tellus. Maecenas placerat dignissim finibus. Nam facilisis nisl ac libero gravida, hendrerit tincidunt justo congue. Aliquam erat volutpat. Fusce a felis eu massa vulputate feugiat non quis nunc. Aliquam malesuada dictum odio in pharetra. Aenean scelerisque tincidunt vestibulum. Sed posuere dolor nisi, eget lobortis velit lacinia eget. Nam non lorem quis erat tincidunt feugiat.
+
+Cras facilisis faucibus odio, id dapibus risus tincidunt ut. Proin ac dapibus lorem, vulputate interdum nisi. Aliquam porttitor metus sed rutrum venenatis. Donec ac lectus sit amet sem elementum cursus in ut orci. Aliquam erat volutpat. Fusce nec elit convallis, vulputate purus et, cursus ante. In facilisis lorem eget urna rutrum, id consequat est maximus. Nam sollicitudin lacinia eros, non egestas turpis suscipit nec. In porta urna ac aliquet feugiat. Integer nibh purus, euismod id rhoncus nec, lobortis gravida ante. Nam ut finibus nibh, sed sollicitudin sem. Quisque tempus elit ac ligula egestas hendrerit.
+
+Nunc finibus auctor est, a iaculis tellus blandit sed. Morbi at est hendrerit, ultricies ex at, tristique libero. Nunc tempus pellentesque urna id sollicitudin. Vivamus dolor est, rhoncus vitae volutpat sed, gravida commodo magna. Curabitur eu nisi enim. Pellentesque porta enim et libero dictum, vitae maximus leo pulvinar. Praesent elit sapien, placerat non arcu vel, tempor lobortis purus. Suspendisse mollis mauris id ornare tempus. Nunc id massa tortor. In vel turpis at ligula mollis pharetra. Duis neque felis, varius id velit eu, aliquet cursus sapien. Pellentesque et leo nec neque lobortis dapibus vel vitae arcu. Pellentesque quis orci ac tellus mollis scelerisque vel sit amet ante. Sed cursus lacinia eros eget tempus. Vivamus sed ex pellentesque nulla hendrerit volutpat ornare nec erat. Quisque pulvinar auctor interdum.
+
+Sed dignissim hendrerit dui, eu suscipit felis consectetur et. Donec porttitor leo eu leo luctus, faucibus consequat urna pretium. Phasellus et tempor eros. Donec ut nulla vitae nulla mollis dictum. Sed scelerisque nisi convallis, vestibulum lorem ut, sodales lorem. Fusce quam magna, mattis quis commodo vel, laoreet et nibh. Duis in sem eros. Nulla facilisi.
+
+
+
+
+alterações questão 14.
+
+alterações questão 14.
