@@ -1,1 +1,32 @@
 estudo de branchs
+<<<<<<< HEAD
+=======
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent dictum, purus ac tempor pellentesque, lectus arcu pharetra orci, sit amet dignissim urna dolor congue elit. Cras sagittis metus nec lectus varius, a vestibulum odio euismod. Nunc porttitor tempor semper. Cras tempus enim eu pretium imperdiet. Quisque vulputate et libero quis consectetur. Praesent neque tortor, egestas ac quam at, rutrum rutrum dui. Donec eu convallis velit. Duis eget est ac est porta gravida. Nulla tellus arcu, dignissim at tempus a, blandit vel est. Morbi eleifend purus vel convallis malesuada. Vivamus at nunc eu ipsum elementum vulputate.
+
+Etiam hendrerit, neque in accumsan cursus, ex mi facilisis metus, a semper felis orci sit amet urna. Cras ac augue aliquet, euismod ipsum pellentesque, ultricies sem. Praesent ultricies ligula tortor, ut efficitur diam tempus eu. Ut ac ornare lorem. Quisque in urna eu erat ultricies interdum vitae id diam. Integer tincidunt nisi in vehicula aliquam. Duis auctor porttitor tellus. Maecenas placerat dignissim finibus. Nam facilisis nisl ac libero gravida, hendrerit tincidunt justo congue. Aliquam erat volutpat. Fusce a felis eu massa vulputate feugiat non quis nunc. Aliquam malesuada dictum odio in pharetra. Aenean scelerisque tincidunt vestibulum. Sed posuere dolor nisi, eget lobortis velit lacinia eget. Nam non lorem quis erat tincidunt feugiat.
+
+Ccibus consequat urna pretium. Phasellus et tempor eros. Donec ut nulla vitae nulla mollis dictum. Sed scelerisque nisi convallis, vestibulum lorem ut, sodales lorem. Fusce quam magna, mattis quis commodo vel, laoreet et nibh. Duis in sem eros. Nulla facilisi.
+>>>>>>> feature_2
+
+
+====
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+alterações questão 14.
+
+alterações questão 14.
+>>>>>>> feature_2
